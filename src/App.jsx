@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className="">
+      <div className="bg-orange-200 min-h-screen px-6 py-3 flex flex-col gap-16">
         <Header />
         <Body />
         <Footer />
